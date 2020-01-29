@@ -1,0 +1,57 @@
+h1 {
+    color: rgb(58, 72, 117);
+    text-align: center;  
+}
+
+h2{
+    color: rgb(154, 156, 22);
+    text-align: left;
+}
+
+h3{
+    color: rgb(231, 75, 13);
+    text-align: left;
+}
+
+.p{
+    color: rgb(23, 207, 231);
+}
+
+.start-of-computers{
+    background-color: #1EA8D1;
+    padding: 25px;
+    min-height: 400px;
+}
+
+.About-computers{
+    background-image: url();
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    color: white;
+}
+
+.overlay{
+    background-color: rgba(74, 45, 206, 0.733);
+    padding: 25px;
+}
+
+img {
+    width: 800px;
+}
+
+.Personal-computers{
+    background-color: rgb(90, 85, 134);
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    color: white;
+}
+
+.start-of-Microsoft{
+    background-color: rgb(75, 97, 15);
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    color: white;
+}
